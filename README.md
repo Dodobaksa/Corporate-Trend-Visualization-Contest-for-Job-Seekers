@@ -21,3 +21,4 @@ If you want to see detailed data sources, Click [Here.](https://dacon.io/competi
 
 ___
 ## Poster
+<img width="899" alt="기업트렌드시각화" src="https://user-images.githubusercontent.com/97015589/221366173-8b39ef73-7744-411c-83b6-6cc2d960ba59.png">
