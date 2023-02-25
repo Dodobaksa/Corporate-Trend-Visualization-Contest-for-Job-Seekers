@@ -8,10 +8,15 @@ Many job seekers have a hard time choosing a company because it is difficult for
 ___
 ## Crawling link
 [KNOW Data](https://dacon.io/competitions/official/235865/data)
+
 [Public Data Portal](https://www.data.go.kr/)
+
 [National Statistical Portal](https://kosis.kr/index/index.do)
+
 [Seoul Open Data Plaza](https://data.seoul.go.kr/)
+
 [Naver job Cafe](https://cafe.naver.com/dokchi)
+
 If you want to see detailed data sources, Click [Here.](https://dacon.io/competitions/official/235866/codeshare/4260)
 
 ___
